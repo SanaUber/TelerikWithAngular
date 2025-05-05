@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\views\\subreport\\subreport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:views\\subreport\\subreport.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\telerikreportapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:telerikreportapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\views\\crosstab\\crosstab.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:views\\crosstab\\crosstab.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\wwwroot\\graphsample\\graph.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:wwwroot\\graphsample\\graph.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\views\\wwwroot\\html5reportviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:views\\wwwroot\\html5reportviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\wwwroot\\sample\\html5reportviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:wwwroot\\sample\\html5reportviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\reportviewer_item_log.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:reportviewer_item_log.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|c:\\my projs on github\\telerikwithangular\\telerikreportapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{607AB41C-5C7F-4ACE-991D-877797400F32}|TelerikReportApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubReport.html",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\SubReport\\SubReport.html",
+              "RelativeDocumentMoniker": "Views\\SubReport\\SubReport.html",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\SubReport\\SubReport.html",
+              "RelativeToolTip": "Views\\SubReport\\SubReport.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T12:20:55.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T06:03:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:58:17.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T05:34:29.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelerikReportApp.csproj",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\TelerikReportApp.csproj",
+              "RelativeDocumentMoniker": "TelerikReportApp.csproj",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\TelerikReportApp.csproj",
+              "RelativeToolTip": "TelerikReportApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-09T05:20:05.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrossTab.html",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\CrossTab\\CrossTab.html",
+              "RelativeDocumentMoniker": "Views\\CrossTab\\CrossTab.html",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\CrossTab\\CrossTab.html",
+              "RelativeToolTip": "Views\\CrossTab\\CrossTab.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T11:17:59.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Graph.html",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\wwwroot\\GraphSample\\Graph.html",
+              "RelativeDocumentMoniker": "wwwroot\\GraphSample\\Graph.html",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\wwwroot\\GraphSample\\Graph.html",
+              "RelativeToolTip": "wwwroot\\GraphSample\\Graph.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T08:33:51.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T06:19:46.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Html5ReportViewer.html",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\wwwroot\\Html5ReportViewer.html",
+              "RelativeDocumentMoniker": "Views\\wwwroot\\Html5ReportViewer.html",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\wwwroot\\Html5ReportViewer.html",
+              "RelativeToolTip": "Views\\wwwroot\\Html5ReportViewer.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-10T09:57:05.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Html5ReportViewer.html",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\wwwroot\\Sample\\Html5ReportViewer.html",
+              "RelativeDocumentMoniker": "wwwroot\\Sample\\Html5ReportViewer.html",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\wwwroot\\Sample\\Html5ReportViewer.html",
+              "RelativeToolTip": "wwwroot\\Sample\\Html5ReportViewer.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T06:19:18.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T06:42:43.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReportViewer_Item_Log.html",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\ReportViewer_Item_Log.html",
+              "RelativeDocumentMoniker": "ReportViewer_Item_Log.html",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\ReportViewer_Item_Log.html",
+              "RelativeToolTip": "ReportViewer_Item_Log.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-09T06:41:43.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T06:42:31.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
