@@ -1,0 +1,14 @@
+<tr-viewer #viewer1
+[containerStyle]="viewerContainerStyle"
+[serviceUrl]="'https://localhost:/api/reports/'"
+    [reportSource]="{
+        report: 'SubReport.trdp',
+        parameters: {}
+    }"
+	[viewMode]="'INTERACTIVE'"
+	[scaleMode]="'SPECIFIC'"
+	[scale]="1.0"
+	[ready]="ready"
+    [viewerToolTipOpening]="viewerToolTipOpening"
+	[enableAccessibility]="false">
+</tr-viewer>

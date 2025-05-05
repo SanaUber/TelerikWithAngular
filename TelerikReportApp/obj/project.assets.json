@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Telerik.ReportViewer.Blazor.Trial >= 19.0.25.313",
+      "Telerik.ReportViewer.Mvc.Trial >= 19.0.25.313",
+      "Telerik.Reporting.OpenXmlRendering.Trial >= 19.0.25.313",
+      "Telerik.Reporting.Services.AspNetCore.Trial >= 19.0.25.313"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ACER\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\TelerikReportApp.csproj",
+      "projectName": "TelerikReportApp",
+      "projectPath": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\TelerikReportApp.csproj",
+      "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
+      "outputPath": "C:\\my projs on github\\TelerikWithAngular\\TelerikReportApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Telerik.ReportViewer.Blazor.Trial": {
+            "target": "Package",
+            "version": "[19.0.25.313, )"
+          },
+          "Telerik.ReportViewer.Mvc.Trial": {
+            "target": "Package",
+            "version": "[19.0.25.313, )"
+          },
+          "Telerik.Reporting.OpenXmlRendering.Trial": {
+            "target": "Package",
+            "version": "[19.0.25.313, )"
+          },
+          "Telerik.Reporting.Services.AspNetCore.Trial": {
+            "target": "Package",
+            "version": "[19.0.25.313, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Telerik.Reporting.OpenXmlRendering.Trial. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org, telerik.com",
+      "libraryId": "Telerik.Reporting.OpenXmlRendering.Trial",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Telerik.ReportViewer.Blazor.Trial. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org, telerik.com",
+      "libraryId": "Telerik.ReportViewer.Blazor.Trial",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Telerik.Reporting.Services.AspNetCore.Trial. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org, telerik.com",
+      "libraryId": "Telerik.Reporting.Services.AspNetCore.Trial",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Telerik.ReportViewer.Mvc.Trial. No packages exist with this id in source(s): C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org, telerik.com",
+      "libraryId": "Telerik.ReportViewer.Mvc.Trial",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
